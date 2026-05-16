@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180179727486",
+    "project_id": "ejemplologin2-30d46",
+    "storage_bucket": "ejemplologin2-30d46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180179727486:android:0fe1448b279279ab39d42f",
+        "android_client_info": {
+          "package_name": "gael.guerra.practicaautenticacion2guerrag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlH9dtfTI9GfJiWpbDFOIN0umZn9sBlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
