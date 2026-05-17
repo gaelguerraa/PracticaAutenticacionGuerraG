@@ -181,22 +181,6 @@ fun ArtistItemPreview() {
 }
 
 
-//fun createArtist(db: FirebaseFirestore) {
-//    val random = (1..10000).random()
-//    val artist = Artist(name = "Random $random", numberOfSongs = random)
-//    db.collection("artists")
-//        .add(artist)
-//        .addOnSuccessListener {
-//            Log.i("Aris", "SUCCESS")
-//        }
-//        .addOnFailureListener {
-//            Log.i("Aris", "FAILURE")
-//        }
-//        .addOnCompleteListener {
-//            Log.i("Aris", "COMPLETE")
-//        }
-//
-//}
 
 fun navigateToPlayStore(context: Context) {
     val appPackage = context.packageName
